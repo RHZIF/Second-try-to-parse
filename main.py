@@ -2,7 +2,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
-
+# your skills are actually very good
 
 def get_data(url):
     headers = {
